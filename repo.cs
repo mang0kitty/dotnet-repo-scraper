@@ -2,7 +2,7 @@ using System.Runtime.Serialization;
 using System;
 using System.Globalization;
 
-namespace REST
+namespace WebAPIClient
 {
     [DataContract(Name="repo")]
     public class Repository
